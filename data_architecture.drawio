@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.5">
+  <diagram name="Page-1" id="Ijcck89OBC6g6z7YROFa">
+    <mxGraphModel dx="786" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mrxKI1mssq8SwY0NJ0cZ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="195" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="mrxKI1mssq8SwY0NJ0cZ-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Sources&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="65" y="90" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mrxKI1mssq8SwY0NJ0cZ-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;High level archtecture&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="20" width="230" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
