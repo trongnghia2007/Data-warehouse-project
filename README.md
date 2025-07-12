@@ -59,6 +59,6 @@ For further questions or collaboration:
 
 ---
 
-If you are interested in learning about Data Warehousing, please check out the [original tutorial series](https://www.youtube.com/watch?v=9GVqKuTVANE&list=PLNcg_FV9n7qaUWeyUkPfiVtMbKlrfMqA8) to support the author.
+> If you are interested in learning about Data Warehousing, please check out the [original tutorial series](https://www.youtube.com/watch?v=9GVqKuTVANE&list=PLNcg_FV9n7qaUWeyUkPfiVtMbKlrfMqA8) to support the author.
 
 
