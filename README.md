@@ -5,6 +5,7 @@ This is my first hands-on project in data management, following with this [YouTu
 
 This project demonstrates a full data warehousing and analytics pipeline — from building the data warehouse to delivering actionable insights. It serves as a portfolio piece, reflecting industry-standard practices in **data engineering** and **analytics**. You can see the particular tasks of the project on [Notion](https://axiomatic-hydrant-67a.notion.site/SQL-Data-Warehouse-Project-21301f2e86d480f39cf5f223d61d313e) here.
 
+https://github.com/DataWithBaraa/sql-data-warehouse-project/tree/main
 ---
 
 ## 🔧 Technologies
